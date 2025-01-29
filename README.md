@@ -20,5 +20,7 @@ Created web app through Flask and deployed on heroku.
 
 ![alt text](https://github.com/Shaw1390/Startup-Prediction/blob/main/static/img/Screenshot%202025-01-21%20213114.png)
 
+Link: https://starup-prediction-4998fe18888c.herokuapp.com/
+
 ### ----- Important Note -----
 If the webapp is not working and you get the message as shown in the picture given below, it is occuring just because free dynos for this particular month provided by Heroku have been completely used. You can access the webpage on 1st of the next month.
